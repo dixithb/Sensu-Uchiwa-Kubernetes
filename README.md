@@ -21,10 +21,10 @@ Tested & Verified with below versions:
 - clone and adjust [dixithb/Sensu-Uchiwa-Kubernetes](https://github.com/dixithb/Sensu-Uchiwa-Kubernetes)
 
 Credentials:
-- [rabbitmq user](https://github.com/venoodkhatuva12/sensu-uchiwa/blob/master/kubernetes/10-secret-rabbitmq.yaml#L8)
-- [rabbitmq pass](https://github.com/venoodkhatuva12/sensu-uchiwa/blob/master/kubernetes/10-secret-rabbitmq.yaml#L9)
-- [rabbitmq vhost](https://github.com/venoodkhatuva12/sensu-uchiwa/blob/master/kubernetes/10-secret-rabbitmq.yaml#L10)
-- [rabbitmq cookie](https://github.com/venoodkhatuva12/sensu-uchiwa/blob/master/kubernetes/10-secret-rabbitmq.yaml#L7)
+- [rabbitmq user](https://github.com/dixithb/Sensu-Uchiwa-Kubernetes/blob/master/kubernetes/10-secret-rabbitmq.yaml#L8)
+- [rabbitmq pass](https://github.com/dixithb/Sensu-Uchiwa-Kubernetes/blob/master/kubernetes/10-secret-rabbitmq.yaml#L9)
+- [rabbitmq vhost](https://github.com/dixithb/Sensu-Uchiwa-Kubernetes/blob/master/kubernetes/10-secret-rabbitmq.yaml#L10)
+- [rabbitmq cookie](https://github.com/dixithb/Sensu-Uchiwa-Kubernetes/blob/master/kubernetes/10-secret-rabbitmq.yaml#L7)
 
 ## Deploy
 
