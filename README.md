@@ -18,8 +18,7 @@ Tested & Verified with below versions:
 
 ## Prerequisite
 
-- install and configure [awscli](http://docs.aws.amazon.com/cli/latest/userguide/installing.html)
-- clone and adjust [venoodkhatuva12/sensu-uchiwa](https://github.com/venoodkhatuva12/Sensu-Uchiwa-Kubernetes)
+- clone and adjust [dixithb/Sensu-Uchiwa-Kubernetes](https://github.com/dixithb/Sensu-Uchiwa-Kubernetes)
 
 Credentials:
 - [rabbitmq user](https://github.com/venoodkhatuva12/sensu-uchiwa/blob/master/kubernetes/10-secret-rabbitmq.yaml#L8)
